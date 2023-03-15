@@ -1,10 +1,10 @@
 [
   {
-    "package": "sars",
+    "package": "gambin",
     "oncran": true
   },
   {
-    "package": "gambin",
+    "package": "sars",
     "oncran": true
   }
 ]
