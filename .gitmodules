@@ -5,6 +5,9 @@
 [submodule "gambin"]
 	path = gambin
 	url = https://github.com/txm676/gambin
+[submodule "nos"]
+	path = nos
+	url = https://github.com/txm676/nos
 [submodule "sars"]
 	path = sars
 	url = https://github.com/txm676/sars
